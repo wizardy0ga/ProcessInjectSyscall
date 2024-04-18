@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ProcessInjectSyscall", "Vcx\ProcessInjectSyscall.vcxproj", "{33876491-E936-4C39-92E6-22CD585713E0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Basic|x64 = Basic|x64
+		Basic|x86 = Basic|x86
+		SysWhispers|x64 = SysWhispers|x64
+		SysWhispers|x86 = SysWhispers|x86
+		SysWhispers2_Random|x64 = SysWhispers2_Random|x64
+		SysWhispers2_Random|x86 = SysWhispers2_Random|x86
+		SysWhispers2|x64 = SysWhispers2|x64
+		SysWhispers2|x86 = SysWhispers2|x86
+		SysWhispers3_Jump|x64 = SysWhispers3_Jump|x64
+		SysWhispers3_Jump|x86 = SysWhispers3_Jump|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33876491-E936-4C39-92E6-22CD585713E0}.Basic|x64.ActiveCfg = Basic|x64
+		{33876491-E936-4C39-92E6-22CD585713E0}.Basic|x64.Build.0 = Basic|x64
+		{33876491-E936-4C39-92E6-22CD585713E0}.Basic|x86.ActiveCfg = Basic|Win32
+		{33876491-E936-4C39-92E6-22CD585713E0}.Basic|x86.Build.0 = Basic|Win32
+		{33876491-E936-4C39-92E6-22CD585713E0}.SysWhispers|x64.ActiveCfg = SysWhispers|x64
+		{33876491-E936-4C39-92E6-22CD585713E0}.SysWhispers|x64.Build.0 = SysWhispers|x64
+		{33876491-E936-4C39-92E6-22CD585713E0}.SysWhispers|x86.ActiveCfg = SysWhispers|Win32
+		{33876491-E936-4C39-92E6-22CD585713E0}.SysWhispers|x86.Build.0 = SysWhispers|Win32
+		{33876491-E936-4C39-92E6-22CD585713E0}.SysWhispers2_Random|x64.ActiveCfg = SysWhispers2_Random|x64
+		{33876491-E936-4C39-92E6-22CD585713E0}.SysWhispers2_Random|x64.Build.0 = SysWhispers2_Random|x64
+		{33876491-E936-4C39-92E6-22CD585713E0}.SysWhispers2_Random|x86.ActiveCfg = SysWhispers2_Random|Win32
+		{33876491-E936-4C39-92E6-22CD585713E0}.SysWhispers2_Random|x86.Build.0 = SysWhispers2_Random|Win32
+		{33876491-E936-4C39-92E6-22CD585713E0}.SysWhispers2|x64.ActiveCfg = SysWhispers2|x64
+		{33876491-E936-4C39-92E6-22CD585713E0}.SysWhispers2|x64.Build.0 = SysWhispers2|x64
+		{33876491-E936-4C39-92E6-22CD585713E0}.SysWhispers2|x86.ActiveCfg = SysWhispers2|Win32
+		{33876491-E936-4C39-92E6-22CD585713E0}.SysWhispers2|x86.Build.0 = SysWhispers2|Win32
+		{33876491-E936-4C39-92E6-22CD585713E0}.SysWhispers3_Jump|x64.ActiveCfg = SysWhispers3_Jump|x64
+		{33876491-E936-4C39-92E6-22CD585713E0}.SysWhispers3_Jump|x64.Build.0 = SysWhispers3_Jump|x64
+		{33876491-E936-4C39-92E6-22CD585713E0}.SysWhispers3_Jump|x86.ActiveCfg = SysWhispers3_Jump|Win32
+		{33876491-E936-4C39-92E6-22CD585713E0}.SysWhispers3_Jump|x86.Build.0 = SysWhispers3_Jump|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {89375F96-EC17-4E91-B453-BDA997589F11}
+	EndGlobalSection
+EndGlobal
